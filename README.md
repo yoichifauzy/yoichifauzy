@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+💫 About Me:
+🔭 I’m currently working on writing clean, maintainable code and breaking monolithic problems into micro-solutions.<br>
+
+
+👯 I’m looking to collaborate on anything that challenges my logic and pushes the boundaries of web technology.<br>
+
+
+🤝 I’m looking for help with understanding the deepest, darkest secrets of database query optimization.<br>
+
+
+🌱 I’m currently learning new tech stacks, best practices, and how to survive without a compiler error.<br>
+
+
+💬 Ask me about API design, relational databases, or why dark mode is the only acceptable theme.<br>
+
+
+⚡ Fun fact: I can debug complex logic in my head, but I still have to Google<br>
 
 
 ## 🌐 Socials:
